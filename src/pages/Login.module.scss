@@ -1,0 +1,15 @@
+.container {
+  padding-top: 10px;
+  @media (min-width: 768px) {
+    padding-top: 20px;
+  }
+}
+.logo_container {
+  width: 80%;
+  margin: 0 auto 20px;
+  min-height: 50px;
+  @media (min-width: 768px) {
+    margin-bottom: 50px;
+    min-height: 100px;
+  }
+}
