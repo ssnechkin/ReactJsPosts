@@ -26,6 +26,14 @@
 }
 
 
+.box {
+    background-color: var(--box-bg);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: var(--box-shadow);
+}
+
+
 .post-enter {
   opacity: 0;
 }
