@@ -7,6 +7,12 @@ npm install @coreui/react @coreui/coreui
 npm install --save react-DnR
 npm i @chakra-ui/react @emotion/react
 npm install uuid
+npm i @progress/kendo-react-upload --save
+
+npm install react-draggable --save
+
+npm i -S react-rnd
+npx create-react-app drag-drop
 
 npm i axios
 
