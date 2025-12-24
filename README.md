@@ -1,3 +1,5 @@
+npm install react-scripts --save-dev
+
 npm install react-transition-group --save
 npm install react-bootstrap bootstrap
 npm install react-bootstrap bootstrap react-draggable
@@ -12,7 +14,7 @@ npm install react-router-dom
 
 ALT + i -- Удалить не используемые импорты 
 
-
+npx create-react-app trust-core-client --template typescrip
 
 
 
